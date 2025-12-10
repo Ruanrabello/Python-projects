@@ -1,1 +1,1 @@
-GROQ_API_KEY = "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" 
+GROQ_API_KEY = "Sua chave_de_api_groq_aqui" 
