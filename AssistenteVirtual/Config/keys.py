@@ -1,1 +1,0 @@
-GROQ_API_KEY = "Sua chave_de_api_groq_aqui" 
