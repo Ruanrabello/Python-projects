@@ -1,79 +1,56 @@
-📚 Projetos – Python, Java, SQL e VBA
+# 🐍 Python Projects
 
-Bem-vindo ao meu repositório! 👋
-Aqui você encontra uma coleção dos meus projetos desenvolvidos em Python, Java, SQL e VBA, usados para aprender, praticar e automatizar tarefas do dia a dia.
+Repositório dedicado aos meus estudos e projetos desenvolvidos em **Python**.
+Aqui você encontrará diferentes implementações, testes e aplicações práticas que fazem parte do meu processo de aprendizado e evolução na programação.
 
+## 📚 Sobre o repositório
 
+Este repositório reúne projetos e exercícios desenvolvidos para praticar conceitos importantes da linguagem **Python**, como:
 
+* Lógica de programação
+* Estruturas de controle
+* Manipulação de dados
+* Integração com APIs
+* Conexão com bancos de dados SQL
+* Automação de tarefas
 
-👨‍💻 Sobre mim:
+O objetivo é consolidar conhecimentos e criar um portfólio prático de desenvolvimento.
 
-Meu nome é Ruan Rabello, sou estudante de Engenharia da Computação e apaixonado por tecnologia.
-Atualmente estudo programação, banco de dados, automação e desenvolvimento de sistemas — sempre buscando melhorar minhas habilidades e criar soluções que facilitem rotinas reais.
-Tenho experiência com:
+## 📂 Estrutura do projeto
 
-	Python (automação, APIs, SQL, scripts de dados)
-  
-	Java (POO, projetos acadêmicos, lógica)
-  
-  	SQL (consultas, criação de tabelas, manipulação de dados)
-  
-  	VBA (macros, automação de Excel, dashboards)
-  
-  	Git e GitHub (versionamento e organização de projetos)
+O repositório pode conter diferentes tipos de projetos, como:
 
+* 🔹 **Projetos básicos** – exercícios e práticas de lógica
+* 🔹 **APIs em Python** – testes e desenvolvimento de APIs
+* 🔹 **Integração com SQL** – projetos envolvendo banco de dados
+* 🔹 **Scripts de automação** – automação de tarefas com Python
 
+## 🚀 Tecnologias utilizadas
 
-  
-  
+* Python 3
+* SQL
+* APIs REST
+* Git e GitHub
 
+## 🎯 Objetivo
 
+Este repositório faz parte do meu processo de aprendizado em desenvolvimento e serve como um espaço para:
 
-📂 Estrutura do Repositório
+* Praticar programação
+* Testar novas ideias
+* Criar projetos práticos
+* Evoluir minhas habilidades como desenvolvedor
 
-Este repositório está dividido por categorias, facilitando a navegação:
-    | Pasta                | Conteúdo                                          |
-| -------------------- | ------------------------------------------------- |
-| **Projetos-SQL-PY/** | Projetos que integram Python com SQL              |
-| **Projetos-API-py/** | APIs e integrações desenvolvidas em Python        |
-| **Projetos-Java/**   | Projetos, exercícios e aplicações em Java         |
-| **Projetos.Py/**     | Scripts, automações e pequenos projetos em Python |
-| **Vba/**             | Macros e automações construídas em VBA            |
+## 👨‍💻 Autor
 
+**Ruan Rabello**
 
+* GitHub: https://github.com/
+* LinkedIn: https://www.linkedin.com/in/ruan-rabello-da-silva-9032b5274/
 
+---
 
-
-
-
-🛠️ Tecnologias utilizadas
-
- 	 -Python
-  
- 	 -Java
-  
-  	 -MySQL / SQL Server
-  
- 	 -VBA
-  
-  	 -Git & GitHub
-  
- 	 -APIs Restful
-
-
-
-
-🎯 Objetivo do Repositório
-Organizar meus estudos e compartilhar projetos que mostram minha evolução como desenvolvedor.
-Busco criar soluções úteis, explorando boas práticas, organização de código e automação.
-
-
-📬 Contato
-Se quiser trocar ideias, colaborar ou conhecer mais dos meus projetos:
-
-  LinkedIn: https://www.linkedin.com/in/ruan-rabello-da-silva-9032b5274/
-  
-  GitHub: https://github.com/Ruanrabello
+⭐ Se quiser acompanhar minha evolução ou utilizar algum código como referência, fique à vontade para explorar o repositório!
 
 
 
